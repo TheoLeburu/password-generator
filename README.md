@@ -29,7 +29,7 @@ A web-based tool that generates strong, random passwords with customizable optio
 [View live on GitHub Pages](https://your-username.github.io/password-generator/)
 
 ## Screenshot
-![Password Generator](assets/images/screenshot.png)
+![Password Generator](assets/images/Screenshot 2025-10-16 231755.png)
 
 ## License
 MIT License - see LICENSE file for details
